@@ -16,7 +16,7 @@ Welcome to my personal website. I am a Ph.D. student in Economics and Education 
 * [LinkedIn](https://www.linkedin.com/in/tatianavelascoro/)
 
 ### Research Interest
-My research focuses in the intersection between schooling and the labor market, and how policies can improve equity for youth in different context. 
+My research focuses in the intersection between college attainment and the labor market, and on how policies can improve equity for youth in different context. 
 
 ### Working Papers
 
