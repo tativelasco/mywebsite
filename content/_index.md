@@ -6,7 +6,7 @@ title = "TVR"
 
 {{< figure class="avatar" src="/me.png" >}}
 
-Welcome to my personal website. I am a Ph.D. student in Economics and Education at Columbia University.
+Welcome to my personal website. I am a Ph.D. student in Economics and Education at Teachers College - Columbia University.
 
 ## Contact
 * Email: [tv2225@tc.columbia.edu](mailto:tv2225@tc.columbia.edu)
@@ -15,11 +15,11 @@ Welcome to my personal website. I am a Ph.D. student in Economics and Education 
 * [LinkedIn](https://www.linkedin.com/in/tatianavelascoro/)
 
 ## Research Interest
-My research topics are higher education and the transition to the labor market.
+My research focuses in the intersection between schooling and the labor market, and how policies can improve equity for youth in different context.
 
 ## Working Papers
 
-#### College Integration and Students’ Social Interactions: Evidence from Turnstiles Data [Work in Progress].
+#### College Integration and Students’ Social Interactions: Evidence from Turnstiles Data [Work in Progress](https://www.dropbox.com/s/zqhgz15boyudgj5/Velasco_APPAM2020.pdf?dl=0).
 The efforts to desegregate schools by helping low–income students to attend elite institutions have spread around the world. However, the evidence on how students' social networks respond to such policies remains scant. While there is evidence indicating that school integration fosters upward mobility and more positive views towards others (Chetty al., 2020; Fryer, 2011; Rao, 2019), there is little evidence on how students' interactions within schools respond to such policies. Importantly, there is a concern that school integration benefits may be undermined if social interactions within schools remain segregated. My dissertation provides evidence on this gap by asking: what happens to students' social interactions when a desegregation policy forces socio-economic integration? Are low–income and wealthy students more likely to interact with one another? Moreover, if social interactions change, how does that reflect on academic achievement? To answer these questions, I study a natural experiment at an elite university that experienced a sharp and unexpected increase in its enrollment of low–income students. To measure social interactions, I assemble a novel dataset based on over a hundred million records of students' movements across campus as recorded by turnstiles guarding all campus entrances. I derive an indicator of students' interactions, which I validate against a social network survey. I combine these data with student-level records and implement a difference–in–differences approach that exploits the plausibly random variation in the share of low–income peers within degree programs (i.e., majors) and across cohorts.
 
 #### The Returns to College for Low-income students: Evidence from a Student Loan Program in Colombia (co-authored with F. Sanchez and D. Perez) [Draft](https://www.dropbox.com/s/qtlgwyegn4oljyh/Sanchez_Velasco_Perez_march2021.pdf?dl=0)
