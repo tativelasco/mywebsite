@@ -6,7 +6,7 @@ title = "TVR"
 
 {{< figure class="avatar" src="/me.png" >}}
 
-Welcome to my personal website. I am a Ph.D. student in Economics and Education at Teachers College - Columbia University.
+Welcome to my personal website. I am a Ph.D. student in Economics and Education at Teachers College - Columbia University. My research applies concepts and methods from the social and economic networks to study education policies and economic inequality.
 
 ### Contact
 * Email: [tv2225@tc.columbia.edu](mailto:tv2225@tc.columbia.edu)
@@ -15,8 +15,6 @@ Welcome to my personal website. I am a Ph.D. student in Economics and Education 
 * [Twitter](https://twitter.com/TatiVelasco)
 * [LinkedIn](https://www.linkedin.com/in/tatianavelascoro/)
 
-### Research Interest
-I study the relation between schooling and labor market outcomes. My research applies concepts and methods from the social and economic networks literature to the study of education policies and economic inequality.
 
 ### Work in progress
 
