@@ -6,7 +6,7 @@ title = "TVR"
 
 {{< figure class="avatar" src="/me.png" >}}
 
-Welcome to my personal website. I am a Ph.D. student in Economics and Education at Teachers College - Columbia University. My current research applies concepts and methods from social and economic networks to study the relation between education policies and economic inequality.
+I am a Ph.D. student in Economics and Education at Teachers College - Columbia University. My current research applies concepts and methods from social and economic networks to study the relation between education policies and economic inequality.
 
 ### Contact
 * Email: [tv2225@tc.columbia.edu](mailto:tv2225@tc.columbia.edu)

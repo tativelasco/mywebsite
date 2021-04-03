@@ -21,8 +21,8 @@ googleAnalytics = ""  # add your tracking id
     pageWidth = "950px"
     avatarSize = "90px"
     colorBlack = "#222222"
-    colorRed = "#0c7ed4" #color blue
-    #colorRed = "#dc3545"
+    #colorRed = "#0c7ed4" #color blue
+    colorRed = "#dc3545"
 
 [permalinks]
   "/" = "/:filename"
