@@ -14,9 +14,12 @@ Welcome to my personal website. I am a Ph.D. student in Economics and Education 
 ### Social
 * [Twitter](https://twitter.com/TatiVelasco)
 * [LinkedIn](https://www.linkedin.com/in/tatianavelascoro/)
-
+#
+#
+#
 ### Work in progress
 
 * College Integration and Students’ Social Interactions: Evidence from Turnstiles Data
 
-* The Returns to College for Low-income students: Evidence from a Student Loan Program in Colombia (co-authored with F. Sanchez and D. Perez)
+* The Returns to College for Low-income students: Evidence from a Student
+Loan Program in Colombia (co-authored with F. Sanchez and D. Perez)
