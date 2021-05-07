@@ -22,4 +22,4 @@ I am a Ph.D. student in Economics and Education at Teachers College - Columbia U
 * College Integration and Students’ Social Interactions: Evidence from Turnstiles Data
 
 * The Returns to College for Low-income students: Evidence from a Student
-Loan Program in Colombia (co-authored with F. Sanchez and D. Perez)
+Loan Program in Colombia (co-authored with F. Sanchez)
