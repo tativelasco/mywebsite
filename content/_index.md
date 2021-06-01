@@ -6,7 +6,7 @@ title = "TVR"
 
 {{< figure class="avatar" src="/me.png" >}}
 
-I am a Ph.D. student in Economics and Education at Teachers College - Columbia University. My research studies the relation between education policies and economic inequality, with a focus on higher education and the transition to the labor market. My work leverages administrative data with policy evaluation methods. I am particularly interested in the role of financial aid policies and its impacts on segregation and on student behaviors as determinants of academic success and social mobility.
+I am a Ph.D. candidate in Economics and Education at Teachers College - Columbia University, and a National Academy of Education / Spencer Foundation Dissertation Fellow. My research focuses on the relation between education policies and economic inequality, with a focus on higher education and the transition to the labor market. 
 
 ### Contact
 * Email: [tv2225@tc.columbia.edu](mailto:tv2225@tc.columbia.edu)
