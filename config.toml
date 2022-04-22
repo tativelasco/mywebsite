@@ -1,5 +1,5 @@
 #baseURL = "https://tatianavelasco.netlify.app/"
-title = "Tatiana Velasco Rodriguez"
+title = "Tatiana Velasco"
 baseURL = "https://tativelasco.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
