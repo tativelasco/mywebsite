@@ -21,7 +21,7 @@ We study whether trust towards strangers is a determinant of social networks amo
 ##### Plant Openings and College Outcomes (joint with Viviana Rodriguez and Lois Miller)
 
 
-### Publications
+### Peer reviewed publications
 
 * [The Methodological Challenges of Measuring Student Learning, Degree Attainment, and Early Labor Market Outcomes in Higher Education](https://doi.org/10.1080/19345747.2016.1238985) 2017. Journal of Research on Educational Effectiveness. Vol. 10(2): 424-448 (co-authored with: Melguizo, T., Zamarro, G. and Sanchez, F.)
 
@@ -31,7 +31,7 @@ We study whether trust towards strangers is a determinant of social networks amo
 
 * [Socio-economic inequalities in malnutrition among children and adolescents in Colombia: the role of individual, household- and community-level characteristics](https://www.cambridge.org/core/journals/public-health-nutrition/article/socioeconomic-inequalities-in-malnutrition-among-children-and-adolescents-in-colombia-the-role-of-individual-household-and-communitylevel-characteristics/C51E7686D1114530155B92A0C2C86738). 2013 Public Health Nutrition 16(9): 1703-18 (co- authored with: Garcia, S., Sarmiento O., Forde, I.)
 
-### Reports on higher education
+### Reports
 
 * [Trends in Key Performance Indicators Among Colleges Participating in a Technology-Mediated Advising Reform Initiative](https://ccrc.tc.columbia.edu/publications/kpis-technology-mediated-advising-reform.html). Community College Research Center Reports. January 2020 (co-authored with: Hughes, K. L., and Barnett, E. A.)
 
