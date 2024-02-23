@@ -6,7 +6,7 @@ title = "Research"
 
 ##### [Tracking Transfer: Community College and Four-Year Institutional Effectiveness in Broadening Bachelor’s Degree Attainment](https://ccrc.tc.columbia.edu/publications/Tracking-Transfer-Community-College-and-Four-Year-Institutional-Effectiveness-in-Broadening-Bachelors-Degree-Attainment.html)
 
-Despite surveys indicating that nearly 80% of community college students aspire to earn a bachelor’s degree, only about a third transfer to a four-year institution, and fewer than half of those who do transfer go on to earn a bachelor’s degree within six years of community college entry. These reports, co-authored with colleagues at CCRC the Aspen Institute, provide metrics that institution and state system leaders can use to benchmark their performance and evaluate efforts to improve student outcomes.
+Despite surveys indicating that nearly 80% of community college students aspire to earn a bachelor’s degree, only about a third transfer to a four-year institution, and fewer than half of those who do transfer go on to earn a bachelor’s degree within six years of community college entry. These reports, co-authored with colleagues at CCRC and the Aspen Institute, provide metrics that institution and state system leaders can use to benchmark their performance and evaluate efforts to improve student outcomes.
 
 ### Working Papers
 ##### The Effects of College Desegregation on Academic Achievement and Students’ Social Interactions: Evidence from Turnstile Data [[Updated Draft]](/static/Velasco_turnstiles_diversity2023.pdf)
