@@ -11,9 +11,9 @@ Welcome to my website. I am an applied microeconomist studying the relation betw
 ### Contact
 * Email: [tv2225@tc.columbia.edu](mailto:tv2225@tc.columbia.edu)
 
-### Other Platforms 
+### Other Platforms
 * [LinkedIn](https://www.linkedin.com/in/tatianavelascoro/)
-* [Twitter](https://twitter.com/TatiVelasco)
+* [Twitter/X](https://twitter.com/TatiVelasco)
 * [Google Scholar](https://scholar.google.com/citations?user=qGSKVYkAAAAJ&hl=en)
 #
 #
