@@ -2,29 +2,24 @@
 title = "Research"
 +++
 
+### Working Papers
+##### The Effects of College Desegregation on Academic Achievement and Students’ Social Interactions: Evidence from Turnstile Data [[Updated Manuscript]](/static/Velasco_turnstiles_diversity2023.pdf)
+
+
+##### Trust and Network Formation (joint with: [Juan Camilo Cardenas](https://economia.uniandes.edu.co/profesores/juan-camilo-cardenas), [Danisz Okulicz](https://www.okulicz.eu/research), [Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/research?authuser=0) and [Tomás Rodríguez Barraquer](https://sites.google.com/site/tomasrodriguezbarraquer/)) [[Manuscript]](/static/trust_paper.pdf)
+
+
 ### Policy Reports
 
 ##### Tracking Transfer: Community College and Four-Year Institutional Effectiveness in Broadening Bachelor’s Degree Attainment [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/Tracking-Transfer-Community-College-and-Four-Year-Institutional-Effectiveness-in-Broadening-Bachelors-Degree-Attainment.html)
 
-Despite surveys indicating that nearly 80% of community college students aspire to earn a bachelor’s degree, only about a third transfer to a four-year institution, and fewer than half of those who do transfer go on to earn a bachelor’s degree within six years of community college entry. These reports, co-authored with colleagues at CCRC and the Aspen Institute, provide metrics that institution and state system leaders can use to benchmark their performance and evaluate efforts to improve student outcomes.
+#####  Trends in Key Performance Indicators Among Colleges Participating in a Technology-Mediated Advising Reform Initiative. Community College Research Center Reports. January 2020 (co-authored with: Hughes, K. L., and Barnett, E. A.) [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/kpis-technology-mediated-advising-reform.html)
 
-### Working Papers
-##### The Effects of College Desegregation on Academic Achievement and Students’ Social Interactions: Evidence from Turnstile Data [[Manuscript]](/static/Velasco_turnstiles_diversity2023.pdf)
-How does desegregation of elite schools impact academic achievement? Does desegregation affect students’ interactions with different types of peers within their school? In this paper, I study a natural experiment at an elite university in Colombia where the number of low-SES students tripled as a result of the introduction of the financial aid program Ser Pilo Paga. The average increase in the percentage of low-SES peers had a null impact on high-SES students’ academic performance. I shed light on the mechanisms behind this outcome by studying changes in social interactions using data on students’ comovements across campus captured by turnstiles located at all entrances.
-Desegregation led to increased connections between high- and low-SES students, although with some persistent bias in favor of interactions among high-SES students. I find that at least half of the increase in interactions between these groups is explained by interactions with high-achieving low-SES students, but I find no evidence of a preference on the extensive margin for interactions with low-income students who are high achievers.
+##### Baseline Trends in Key Performance Indicators Among Colleges Participating in a Technology-Mediated Advising Reform Initiative. Community College Research Center Reports. June 2018 (co- authored with: Armijo, M.) [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/baseline-kpis-technology-mediated-advising-reform.html).
 
-Presented at: Association for Public Policy Analysis and Management Conference 2020, North East Universities Development Consortium 2021, Southern Economic Association 2021, Economics and Education Research Seminar at Columbia University 2021, Syracuse-Cornell Education and Social Policy Daniel Patrick Moynahan Conference 2022.
+### Op-Eds
 
-##### Trust and Network Formation (joint with: [Juan Camilo Cardenas](https://economia.uniandes.edu.co/profesores/juan-camilo-cardenas), [Danisz Okulicz](https://www.okulicz.eu/research), [Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/research?authuser=0) and [Tomás Rodríguez Barraquer](https://sites.google.com/site/tomasrodriguezbarraquer/)) [[Manuscript]](/static/trust_paper.pdf)
-
-We study whether trust towards strangers is a determinant of social networks among an incoming cohort of first-year undergraduate students. We employ an experiment and survey questions to measure students’ trust before they have substantial chances to meet and socialize. After four months, during which the students have many opportunities to interact, we elicit five networks capturing different relationships between them. The students’ initial levels of trust do not significantly predict the relationships they formed after four months. In contrast, time of exposure, similarity in socioeconomic status, and hometown are relevant determinants of relationship formation.
-
-### Other Policy Reports
-
-* [Trends in Key Performance Indicators Among Colleges Participating in a Technology-Mediated Advising Reform Initiative](https://ccrc.tc.columbia.edu/publications/kpis-technology-mediated-advising-reform.html). Community College Research Center Reports. January 2020 (co-authored with: Hughes, K. L., and Barnett, E. A.)
-
-* [Baseline Trends in Key Performance Indicators Among Colleges Participating in a Technology-Mediated Advising Reform Initiative](https://ccrc.tc.columbia.edu/publications/baseline-kpis-technology-mediated-advising-reform.html). Community College Research Center Reports. June 2018 (co- authored with: Armijo, M.)
-
+##### How to Boost Community-College Transfers. The Chronicle of Higher Ed. March 22, 2024 [[Opinion]](https://www.chronicle.com/article/how-to-boost-community-college-transfers)
 
 ### Work in Progress
 
