@@ -11,7 +11,9 @@ title = "Research"
 
 ### Policy Reports
 
-##### Tracking Transfer: Community College and Four-Year Institutional Effectiveness in Broadening Bachelor’s Degree Attainment [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/Tracking-Transfer-Community-College-and-Four-Year-Institutional-Effectiveness-in-Broadening-Bachelors-Degree-Attainment.html)
+##### The Postsecondary Outcomes of High School Dual Enrollment Students: A National and State-by-State Analysis. October 2024. (co-authored with: John Fink, Mariel Bedoya and Davis Jenkins) [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/postsecondary-outcomes-dual-enrollment-national-state.html)
+
+##### Tracking Transfer: Community College and Four-Year Institutional Effectiveness in Broadening Bachelor’s Degree Attainment. February 2024. (co-authored with: John Fink, Mariel Bedoya, Davis Jenkins and Tania LaViolet) [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/Tracking-Transfer-Community-College-and-Four-Year-Institutional-Effectiveness-in-Broadening-Bachelors-Degree-Attainment.html)
 
 #####  Trends in Key Performance Indicators Among Colleges Participating in a Technology-Mediated Advising Reform Initiative. Community College Research Center Reports. January 2020 (co-authored with: Hughes, K. L., and Barnett, E. A.) [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/kpis-technology-mediated-advising-reform.html)
 
@@ -25,7 +27,9 @@ title = "Research"
 
 ##### The Returns to College for Low-income students: Evidence from a Student Loan Program in Colombia (joint with Fabio Sanchez)
 
-##### Plant Openings and College Outcomes (joint with Viviana Rodriguez and Lois Miller)
+##### Examining the Benefits of Dual Enrollment in Communities, Sectors and Institutions (joint with Mariel Bedoya)
+
+##### The Postsecondary and Earnings Trajectories of Dual Enrollment Students by Course Profiles: Evidence from Texas (joint with John Fink, Lauren Schudde, Wonsun Ryu and Davis Jenkins).
 
 
 ### Peer Reviewed Publications (pre-doctoral)
