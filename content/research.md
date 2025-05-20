@@ -3,10 +3,10 @@ title = "Research"
 +++
 
 ### Working Papers
-##### The Effects of College Desegregation on Academic Achievement and Students’ Social Interactions: Evidence from Turnstile Data [[Updated Manuscript]](/static/Velasco_turnstiles_diversity2023.pdf)
+##### The Effects of College Desegregation on Academic Achievement and Students’ Social Interactions: Evidence from Turnstile Data [[Manuscript]](/static/Velasco_turnstiles_diversity2023.pdf) (Under author's review)
 
 
-##### Trust and Network Formation (joint with: [Juan Camilo Cardenas](https://economia.uniandes.edu.co/profesores/juan-camilo-cardenas), [Danisz Okulicz](https://www.okulicz.eu/research), [Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/research?authuser=0) and [Tomás Rodríguez Barraquer](https://sites.google.com/site/tomasrodriguezbarraquer/)) [[Manuscript]](/static/trust_paper.pdf)
+##### Trust and Network Formation (joint with: [Juan Camilo Cardenas](https://economia.uniandes.edu.co/profesores/juan-camilo-cardenas), [Danisz Okulicz](https://www.okulicz.eu/research), [Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/research?authuser=0) and [Tomás Rodríguez Barraquer](https://sites.google.com/site/tomasrodriguezbarraquer/)) [[Manuscript]](/static/trust_paper.pdf)  (Under journal review)
 
 
 ### Policy Reports
@@ -25,9 +25,9 @@ title = "Research"
 
 ### Work in Progress
 
-##### The Returns to College for Low-income students: Evidence from a Student Loan Program in Colombia (joint with Fabio Sanchez)
+##### The Returns to College for Low-income students: Evidence from a Student Loan Program in Colombia (joint with Fabio Sanchez)  (Under authors' review)
 
-##### Examining the Benefits of Dual Enrollment in Communities, Sectors and Institutions (joint with Mariel Bedoya)
+##### Examining the Benefits of Dual Enrollment in Communities, Sectors and Institutions (joint with Mariel Bedoya and Jessica Steiger)
 
 ##### The Postsecondary and Earnings Trajectories of Dual Enrollment Students by Course Profiles: Evidence from Texas (joint with John Fink, Lauren Schudde, Wonsun Ryu and Davis Jenkins).
 
