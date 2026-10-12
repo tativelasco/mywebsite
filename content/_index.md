@@ -9,11 +9,14 @@ title = "Tatiana Velasco"
 Welcome to my website. I am an applied microeconomist studying the relation between education policies and economic inequality. Currently, I am a Senior Research Associate at the [Community College Research Center (CCRC)](https://ccrc.tc.columbia.edu) at Teachers College, Columbia University. At CCRC, I study students' transitions into, through and out of college, with a particular focus on dual enrollment and transfer policies, as well as on the relationships with local labor markets. My research also examines the intersection between education policies and other aspects of students' behavior, such as social interactions and network formation, and how this shapes student outcomes. I hold a Ph.D. in Economics and Education from Teachers College - Columbia University.
 
 <div class="current-work">
+<h4>New Publications</h4>
+<ul>
+<li><a href="https://ccrc.tc.columbia.edu/publications/dual-enrollment-momentum-metrics.html">Dual Enrollment Momentum Metrics: Leading Indicators for Program Improvement</a> (May 2026)</li>
+<li><a href="https://ccrc.tc.columbia.edu/publications/promising-combinations-dual-enrollment-ap-ib-cte.html">Promising Combinations of Dual Enrollment, AP/IB, and CTE</a> (October 2025)</li>
+</ul>
 <h4>Current Work</h4>
 <ul>
 <li>Co-Principal Investigator and project lead, <em>Broadening STEM Credential Attainment Through Transfer</em>, funded by the Alfred P. Sloan Foundation (2025 to 2027)</li>
-<li>New report: <a href="https://ccrc.tc.columbia.edu/publications/dual-enrollment-momentum-metrics.html">Dual Enrollment Momentum Metrics: Leading Indicators for Program Improvement</a> (May 2026)</li>
-<li>New report: <a href="https://ccrc.tc.columbia.edu/publications/promising-combinations-dual-enrollment-ap-ib-cte.html">Promising Combinations of Dual Enrollment, AP/IB, and CTE</a> (October 2025)</li>
 </ul>
 </div>
 
