@@ -40,6 +40,10 @@ The Returns to College for Low-Income Students: Evidence from a Student Loan Pro
 
 Examining the Benefits of Dual Enrollment in Communities, Sectors and Institutions (joint with Bedoya, M., and Steiger, J.)
 
+Unlocking STEM Talent: What Happens to Transfer Students at the Four-Year College? (joint with Miller, L.)
+
+Training for the Plant: Large Firm Entry and Adult College Enrollment (joint with Rodriguez, V.)
+
 ### Op-Eds and Media
 
 How to Boost Community-College Transfers. The Chronicle of Higher Education. March 22, 2024. (Op-Ed) [[Article]](https://www.chronicle.com/article/how-to-boost-community-college-transfers)
