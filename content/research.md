@@ -46,9 +46,17 @@ Training for the Plant: Large Firm Entry and Adult College Enrollment (joint wit
 
 ### Op-Eds and Media
 
-How to Boost Community-College Transfers. The Chronicle of Higher Education. March 22, 2024. (Op-Ed) [[Article]](https://www.chronicle.com/article/how-to-boost-community-college-transfers)
+These High School Graduates Earned a Diploma and a $74,000 Teaching Contract. Education Week. July 11, 2025. (Quoted) [[Article]](https://www.edweek.org/teaching-learning/these-high-school-graduates-earned-a-diploma-and-a-74-000-teaching-contract/2025/07)
+
+Dual Enrollment Blends High School, College, and Workforce Education and Training. Forbes. October 31, 2024. (Research cited) [[Article]](https://www.forbes.com/sites/brunomanno/2024/10/31/dual-enrollment-blends-high-school-college-and-workforce-education-and-training/)
+
+Nearly Half of Texas High School Students Who Earn College Credits Are Hispanic, Study Says. The Texas Tribune. October 16, 2024. (Research cited) [[Article]](https://www.texastribune.org/2024/10/16/texas-dual-enrollment-high-school-community-college/)
+
+These College Majors Rank Most Valuable Due to Higher Salaries, Lower Unemployment Rates. LiveNOW from FOX. October 1, 2024. (Quoted) [[Article]](https://www.livenowfox.com/news/most-valuable-college-majors-higher-salaries-lower-unemployment-rates)
 
 Transfer Students Need Support from Both Two- and Four-Year Institutions. Diverse: Issues in Higher Education. April 25, 2024. (Quoted) [[Article]](https://www.diverseeducation.com/reports-data/article/15669518/transfer-students-need-support-from-both-two-and-four-year-institutions)
+
+How to Boost Community-College Transfers. The Chronicle of Higher Education. March 22, 2024. (Op-Ed) [[Article]](https://www.chronicle.com/article/how-to-boost-community-college-transfers)
 
 Transferring from Community College to a Four-Year School Isn't Often Successful. CNBC. February 13, 2024. (Quoted)
 
