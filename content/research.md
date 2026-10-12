@@ -1,5 +1,6 @@
 +++
 title = "Research"
+description = "Research by Tatiana Velasco on dual enrollment, community college transfer, and postsecondary and labor market outcomes: policy reports, peer-reviewed publications, working papers, and media coverage."
 +++
 
 ### Policy Reports

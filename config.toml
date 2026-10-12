@@ -4,12 +4,13 @@ baseURL = "https://tativelasco.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
+enableRobotsTXT = true
 math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Tatiana Velasco"
-  description = "Tatiana Velasco is a Senior Research Associate at the Community College Research Center (CCRC), Teachers College, Columbia University, studying dual enrollment, transfer, and postsecondary and labor market outcomes."
+  description = "Tatiana Velasco is an applied microeconomist and Senior Research Associate at the Community College Research Center (CCRC), Teachers College, Columbia University, studying dual enrollment, transfer, and postsecondary and labor market outcomes."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   profilePicture = "me.jpg"

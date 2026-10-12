@@ -3,11 +3,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ .Site.Params.description }}">
+    {{ $desc := .Params.description | default .Site.Params.description }}
+    <meta name="description" content="{{ $desc }}">
+    <link rel="canonical" href="{{ .Permalink }}">
     <meta name="author" content="{{ .Site.Params.author }}">
 
     <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-    <meta property="og:description" content="{{ .Site.Params.description }}">
+    <meta property="og:description" content="{{ $desc }}">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:type" content="website">
     {{ with .Site.Params.profilePicture }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
@@ -21,7 +23,37 @@
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
-    {{ with .Site.Params.favicon }}
-        <link rel="icon" type="image/ico" href="{{ . | absURL }}">
+    <link rel="icon" href="{{ "favicon.ico" | absURL }}" sizes="any">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}">
+    <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}">
+
+    {{ if .IsHome }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Tatiana Velasco",
+      "alternateName": "Tatiana Velasco Rodríguez",
+      "url": "{{ .Site.BaseURL }}",
+      "image": "{{ "me.jpg" | absURL }}",
+      "jobTitle": "Senior Research Associate",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Community College Research Center, Teachers College, Columbia University",
+        "url": "https://ccrc.tc.columbia.edu"
+      },
+      "alumniOf": [
+        {"@type": "CollegeOrUniversity", "name": "Teachers College, Columbia University"},
+        {"@type": "CollegeOrUniversity", "name": "Universidad de los Andes"}
+      ],
+      "knowsAbout": ["Dual enrollment", "Community college transfer", "Economics of education", "Higher education policy", "Labor market outcomes"],
+      "sameAs": [
+        "https://ccrc.tc.columbia.edu/person/tatiana-velasco.html",
+        "https://www.linkedin.com/in/tatianavelascoro/",
+        "https://scholar.google.com/citations?user=qGSKVYkAAAAJ",
+        "https://www.instagram.com/collegetati/"
+      ]
+    }
+    </script>
     {{ end }}
 </head>
