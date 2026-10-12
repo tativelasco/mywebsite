@@ -13,5 +13,5 @@ Welcome to my website. I am an applied microeconomist studying the relation betw
 
 ### Other Platforms
 * [LinkedIn](https://www.linkedin.com/in/tatianavelascoro/)
-* [Twitter/X](https://twitter.com/TatiVelasco)
+* [Instagram (@collegetati)](https://www.instagram.com/collegetati/)
 * [Google Scholar](https://scholar.google.com/citations?user=qGSKVYkAAAAJ&hl=en)
