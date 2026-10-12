@@ -12,7 +12,7 @@ googleAnalytics = ""  # add your tracking id
   description = "Tatiana Velasco is a Senior Research Associate at the Community College Research Center (CCRC), Teachers College, Columbia University, studying dual enrollment, transfer, and postsecondary and labor market outcomes."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
-  profilePicture = "static/me.png"
+  profilePicture = "me.jpg"
   [params.footer]
     text = "Built with Hugo Researcher"
     url = "https://github.com/ojroques/hugo-researcher"

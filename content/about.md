@@ -5,7 +5,7 @@ draft = true
 
 ## About Me
 
-{{< figure class="avatar" src="/me.png" >}}
+{{< figure class="avatar" src="/me.jpg" >}}
 
 Welcome to my personal website. I am a Ph.D. student in Economics and Education at Columbia University.
 
