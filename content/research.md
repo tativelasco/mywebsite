@@ -38,7 +38,7 @@ The Returns to College for Low-Income Students: Evidence from a Student Loan Pro
 
 ### Work in Progress
 
-Examining the Benefits of Dual Enrollment in Communities, Sectors and Institutions (joint with Bedoya, M., and Steiger, J.)
+Examining the Benefits of Dual Enrollment in Communities, Sectors and Institutions (joint with Bedoya, M., and Fink, J.)
 
 Unlocking STEM Talent: What Happens to Transfer Students at the Four-Year College? (joint with Miller, L.)
 
