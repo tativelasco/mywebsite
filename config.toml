@@ -17,8 +17,8 @@ googleAnalytics = ""  # add your tracking id
     text = "Built with Hugo Researcher"
     url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Helvetica"
-    pageWidth = "950px"
+    fontFamily = "'Source Sans 3', Helvetica, Arial, sans-serif"
+    pageWidth = "860px"
     avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#0c45d4" #color blue

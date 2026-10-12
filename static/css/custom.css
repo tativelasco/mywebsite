@@ -1,0 +1,81 @@
+/* Typography and layout refresh, layered over the Hugo Researcher theme */
+:root {
+  --ink: #1f2430;
+  --muted: #5b6272;
+  --rule: #dfe3ea;
+  --accent: #0c45d4;
+  --panel: #f3f5fa;
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --sans: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+* { color: var(--ink); font-family: var(--sans); }
+body { font-size: 1.0625rem; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+.container { padding-left: 16px; padding-right: 16px; }
+
+/* Header */
+.navbar-brand, .navbar-brand * { font-family: var(--serif); font-weight: 600; font-size: 1.9rem; letter-spacing: -0.01em; }
+.nav-link, .nav-link * { color: var(--accent); font-weight: 600; font-size: 1rem; }
+.navbar-text { color: var(--muted); }
+hr { border-top-color: var(--rule); }
+
+/* Section headings */
+#content h1, #content h2, #content h3 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--rule);
+  text-wrap: balance;
+}
+#content .container > h3:first-child { margin-top: 1.25rem; }
+
+/* Entries and lists */
+#content p { margin-bottom: 1rem; }
+#content ul { list-style: disc; padding-left: 1.25rem; }
+#content ul li { margin-bottom: 0.35rem; }
+#content a { text-decoration: none; }
+#content a:hover, #content a:focus-visible { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Headshot */
+#content .avatar > img {
+  float: right;
+  width: 230px;
+  height: auto;
+  aspect-ratio: 280 / 395;
+  object-fit: cover;
+  margin: 0.4rem 0 1rem 2rem;
+  border-radius: 6px;
+}
+
+/* Current work panel on the homepage */
+#content .current-work {
+  background: var(--panel);
+  border-radius: 6px;
+  padding: 1rem 1.25rem 0.5rem;
+  margin: 1.5rem 0;
+  clear: none;
+}
+#content .current-work h4 {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin: 0 0 0.6rem;
+  border: 0;
+  padding: 0;
+}
+#content .current-work ul { padding-left: 1.1rem; }
+
+/* Footer */
+#footer a, #footer a * { color: var(--muted); }
+
+@media (max-width: 640px) {
+  .navbar-brand, .navbar-brand * { font-size: 1.6rem; }
+  #content .avatar > img { float: none; display: block; width: 60%; margin: 0.5rem auto 1.25rem; }
+}
