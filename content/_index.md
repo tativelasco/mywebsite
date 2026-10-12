@@ -8,7 +8,7 @@ title = "Tatiana Velasco"
 
 Welcome to my website. I am an applied economist studying the relation between education policies and economic inequality. Currently, I am a Senior Research Associate at the [Community College Research Center (CCRC)](https://ccrc.tc.columbia.edu/) at Teachers College, Columbia University. At CCRC, I study students’ transitions into, through and out of college, with a particular focus on dual enrollment and transfer policies, as well as on the relationships with local labor markets. I hold a Ph.D. in Economics and Education from Teachers College - Columbia University.
 
-You may also find my work under Tatiana Velasco Rodríguez. Following Colombian naming custom, Velasco is my father’s last name and Rodríguez is my mother’s.
+You may also find my work under Tatiana Velasco Rodríguez, which is my full legal name. Following Colombian naming custom, Velasco is my father’s last name and Rodríguez is my mother’s.
 
 <div class="current-work">
 <h4>New Publications</h4>
