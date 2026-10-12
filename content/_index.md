@@ -14,10 +14,6 @@ Welcome to my website. I am an applied microeconomist studying the relation betw
 <li><a href="https://ccrc.tc.columbia.edu/publications/dual-enrollment-momentum-metrics.html">Dual Enrollment Momentum Metrics: Leading Indicators for Program Improvement</a> (May 2026)</li>
 <li><a href="https://ccrc.tc.columbia.edu/publications/promising-combinations-dual-enrollment-ap-ib-cte.html">Promising Combinations of Dual Enrollment, AP/IB, and CTE</a> (October 2025)</li>
 </ul>
-<h4>Current Work</h4>
-<ul>
-<li>Co-Principal Investigator and project lead, <em>Broadening STEM Credential Attainment Through Transfer</em>, funded by the Alfred P. Sloan Foundation (2025 to 2027)</li>
-</ul>
 </div>
 
 ### Contact
