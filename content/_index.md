@@ -14,7 +14,7 @@ You may also find my work under Tatiana Velasco Rodríguez, which is my full leg
 <h4>New Publications</h4>
 <ul>
 <li><a href="https://ccrc.tc.columbia.edu/publications/dual-enrollment-momentum-metrics.html">Dual Enrollment Momentum Metrics: Leading Indicators for Program Improvement</a> (May 2026)</li>
-<li><a href="https://ccrc.tc.columbia.edu/publications/promising-combinations-dual-enrollment-ap-ib-cte.html">Promising Combinations of Dual Enrollment, AP/IB, and CTE</a> (October 2025)</li>
+<li><a href="https://www.cambridge.org/core/journals/network-science/article/trust-and-the-dynamics-of-network-formation/7D29B42379B83F78E387F819D9B6FEAB">Trust and the Dynamics of Network Formation</a> (Network Science, 2026)</li>
 </ul>
 </div>
 
