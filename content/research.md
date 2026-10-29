@@ -47,6 +47,12 @@ Training for the Plant: Large Firm Entry and Adult College Enrollment (joint wit
 
 ### Op-Eds and Media
 
+Texas Study Reveals Power of Combined Accelerated Programs for College Success. The EDU Ledger. October 18, 2025. (Research cited) [[Article]](https://www.theeduledger.com/students/article/15769704/texas-study-reveals-power-of-combined-accelerated-programs-for-college-success)
+
+Combining Dual Enrollment With AP Courses Yields Positive Student Outcomes. Inside Higher Ed. October 17, 2025. (Research cited) [[Article]](https://www.insidehighered.com/news/quick-takes/2025/10/17/dual-enrollment-and-ap-courses-yield-positive-outcomes)
+
+Expanding Dual Enrollment Into CTE. Community College Daily. October 15, 2025. (Research cited) [[Article]](https://www.ccdaily.com/2025/10/expanding-dual-enrollment-into-cte/)
+
 These High School Graduates Earned a Diploma and a $74,000 Teaching Contract. Education Week. July 11, 2025. (Quoted) [[Article]](https://www.edweek.org/teaching-learning/these-high-school-graduates-earned-a-diploma-and-a-74-000-teaching-contract/2025/07)
 
 Dual Enrollment Blends High School, College, and Workforce Education and Training. Forbes. October 31, 2024. (Research cited) [[Article]](https://www.forbes.com/sites/brunomanno/2024/10/31/dual-enrollment-blends-high-school-college-and-workforce-education-and-training/)
