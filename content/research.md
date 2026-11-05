@@ -5,6 +5,8 @@ description = "Research by Tatiana Velasco on dual enrollment, community college
 
 ### Policy Reports
 
+Unlocking STEM Talent: What Happens to Transfer Students at the Four-Year College? November 2026. (joint with Miller, L.) [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/unlocking-stem-talent.html)
+
 Dual Enrollment Momentum Metrics: Leading Indicators for Program Improvement. May 2026. (joint with Sparks, D., Schudde, L., Levin, E., Lin, Y., Ryu, W., and Fink, J.) [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/dual-enrollment-momentum-metrics.html)
 
 Promising Combinations of Dual Enrollment, AP/IB, and CTE: The College and Earnings Trajectories of Texas High School Students Who Take Accelerated Coursework. October 2025. (joint with Ryu, W., Schudde, L., Grano, K., Jenkins, D., and Fink, J.) [[CCRC Website]](https://ccrc.tc.columbia.edu/publications/promising-combinations-dual-enrollment-ap-ib-cte.html)
@@ -40,8 +42,6 @@ The Returns to College for Low-Income Students: Evidence from a Student Loan Pro
 ### Work in Progress
 
 Examining the Benefits of Dual Enrollment in Communities, Sectors and Institutions (joint with Bedoya, M., and Fink, J.)
-
-Unlocking STEM Talent: What Happens to Transfer Students at the Four-Year College? (joint with Miller, L.)
 
 Training for the Plant: Large Firm Entry and Adult College Enrollment (joint with Rodriguez, V.)
 
