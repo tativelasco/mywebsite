@@ -41,6 +41,8 @@ The Returns to College for Low-Income Students: Evidence from a Student Loan Pro
 
 ### Work in Progress
 
+Beyond the Bachelor's: Graduate Enrollment Gaps for Community College Transfer Students (joint with Miller, L.)
+
 Examining the Benefits of Dual Enrollment in Communities, Sectors and Institutions (joint with Bedoya, M., and Fink, J.)
 
 Training for the Plant: Large Firm Entry and Adult College Enrollment (joint with Rodriguez, V.)
